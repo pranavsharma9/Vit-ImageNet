@@ -8,8 +8,8 @@ imagenet_labels = dict(enumerate(open("data/classes.txt")))
 
 model = torch.load("model.pth")
 model.eval()
-img=Image.open("data/goldebn_ret.jpg").resize((384, 384))
-# img=Image.open("cat.png")
+# img=Image.open("data/goldebn_ret.jpg").resize((384, 384))
+img=Image.open("data/cat.png")
 print(img.size)
 
 img = (np.array(img) / 128) - 1  
