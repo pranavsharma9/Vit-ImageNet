@@ -4,11 +4,11 @@ This repository is for building a Vision Transformer from Scratch. Initially, I 
 
 <p align="left">
   <img src="data/cat.png" alt="Cat" width="200" />
-  <img src="Result/cat_result.png" alt="Cat Result" width="200" />
+  <img src="Result/cat_result.png" alt="Cat Result" width="400" />
 </p>
 
 <p align="left">
   <img src="data/goldebn_ret.jpg" alt="Golden Retriever" width="200" />
-  <img src="Result/dog_result.png" alt="Dog Result" width="200" />
+  <img src="Result/dog_result.png" alt="Dog Result" width="400" />
 </p>
 
